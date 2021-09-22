@@ -1,0 +1,401 @@
+{
+  "churches": [
+    {
+      "id": 1,
+      "name": "Casky Baptist",
+      "email": "casky@casky.com",
+      "address": "4090 Casky Ln",
+      "zipCode": 42240,
+      "phoneNumber": 2701112222
+    },
+    {
+      "name": "The House",
+      "email": "thehouse@thehouse.com",
+      "address": "801 Red Lane",
+      "zipCode": 37042,
+      "phoneNumber": 6154512111,
+      "id": 2
+    },
+    {
+      "name": "First Baptist Clarkville",
+      "email": "clarksvillefb@fbclarksville.com",
+      "address": "102 N Main St",
+      "zipCode": 37040,
+      "phoneNumber": 6154423329,
+      "id": 3
+    },
+    {
+      "name": "Center Point Church",
+      "email": "centerpoint@centerpointchurch.com",
+      "address": "456 Center Point Rd",
+      "zipCode": 37066,
+      "phoneNumber": 6156725021,
+      "id": 4
+    },
+    {
+      "name": "Hillcrest Baptist",
+      "email": "admin@hillcrestbc.net",
+      "address": "3122 Skyline Dr",
+      "zipCode": 42240,
+      "phoneNumber": 2705628899,
+      "id": 5
+    },
+    {
+      "name": "Living Hope Church",
+      "email": "Livinghope@gmail.com",
+      "address": "971 Brookside Dr",
+      "zipCode": 42240,
+      "phoneNumber": 2703892134,
+      "id": 6
+    },
+    {
+      "name": "The Hill",
+      "email": "theHIll@theHill.com",
+      "address": "198 Hill Dr",
+      "zipCode": 42240,
+      "phoneNumber": 6152221111,
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Josh Pulley",
+      "email": "josh@josh.com",
+      "address": "990 Harding Drive",
+      "zipCode": 37042,
+      "instrument": "Piano/Voice",
+      "description": "Hello there, I have been serving in ministry for over 10 years by playing piano and singing for multiple churches. I believe that we are better together and that we should be reaching the lost. On the hill or in the valley."
+    },
+    {
+      "name": "Erin Truman",
+      "email": "etruman@truman.com",
+      "address": "321 East Coast Dr",
+      "zipCode": 370066,
+      "instrument": "Bagpipe",
+      "description": "I love to run around and play the bagpipes",
+      "id": 2
+    },
+    {
+      "name": "Keith Parks",
+      "email": "kparks@parks.com",
+      "address": "332 Sioux Ct",
+      "zipCode": 37188,
+      "instrument": "Bango",
+      "description": "I love to raise the hell right out of people",
+      "id": 3
+    },
+    {
+      "name": "Gustavo Alamo",
+      "email": "GA@gus.com",
+      "address": "683 Pepper Lane",
+      "zipCode": 37445,
+      "instrument": "Acoustic Guitar",
+      "description": "I love to spice the service up with my authentic Spanish guitar skills",
+      "id": 4
+    },
+    {
+      "name": "Alex Schoyer",
+      "email": "aschoyer@schoyer.com",
+      "address": "324 Bama Sucks Blvd",
+      "zipCode": 23019,
+      "instrument": "Spoons",
+      "description": "I can wear them spoons out to any beat you give me.",
+      "id": 5
+    },
+    {
+      "name": "Alex Woodall",
+      "email": "Awoodal@woodal.com",
+      "address": "432 Rocket Ln",
+      "zipCode": 37567,
+      "instrument": "Organ",
+      "description": "I love to read people and the vibes that i get when people are worhsiping to the max.",
+      "id": 6
+    },
+    {
+      "name": "Scott Silver",
+      "email": "scott@scott.com",
+      "address": "999 Scott Ln",
+      "zipCode": 99999,
+      "instrument": "Singer",
+      "description": "I am a perfect meower",
+      "id": 7
+    }
+  ],
+  "jobPostings": [
+    {
+      "churchId": 2,
+      "positionTitle": "bbb",
+      "description": "aaa",
+      "datePosted": 1728681706,
+      "id": 5
+    },
+    {
+      "churchId": 2,
+      "positionTitle": "Keyboard Player",
+      "description": "We need a keyboard player for our services",
+      "datePosted": 1811781615,
+      "id": 6
+    },
+    {
+      "churchId": 2,
+      "positionTitle": "Electric Guitar",
+      "description": "We are searching for a guitar player for our services",
+      "datePosted": 1136709006,
+      "id": 7
+    },
+    {
+      "churchId": 1,
+      "positionTitle": "Music Minister",
+      "description": "asdasdasdsaon",
+      "datePosted": 1886880633,
+      "id": 8
+    },
+    {
+      "churchId": 3,
+      "positionTitle": "Acoustic Guitar Player",
+      "description": "We are in search for a acoustic player for our service",
+      "datePosted": 1791652309,
+      "id": 9
+    },
+    {
+      "churchId": 4,
+      "positionTitle": "Drummer",
+      "description": "We are in search for a drummer for our service",
+      "datePosted": 1251913797,
+      "id": 10
+    },
+    {
+      "churchId": 5,
+      "positionTitle": "Bass Player",
+      "description": "We are in search for a bass player for our service",
+      "datePosted": 1383890036,
+      "id": 11
+    },
+    {
+      "churchId": 1,
+      "positionTitle": "Female Vocalist",
+      "description": "In search of a soprano for our services",
+      "datePosted": 1765668879,
+      "id": 13
+    },
+    {
+      "churchId": 7,
+      "positionTitle": "Bagpipest",
+      "description": "",
+      "datePosted": 1305827423,
+      "id": 14
+    },
+    {
+      "churchId": 1,
+      "positionTitle": "Guitar Player",
+      "description": "We are in need of a guitar player who can play all genres.\n-Contemporary\n-Traditional",
+      "datePosted": 1632241649,
+      "id": 17
+    },
+    {
+      "churchId": 6,
+      "positionTitle": "Guitar Player",
+      "description": "We need someone who \n-Loves the lord\n-Wants to improve\n-Wants to see a victory\n-Wants to go to the mountain\n-Loves Coolaid",
+      "datePosted": 1632327927,
+      "id": 18
+    },
+    {
+      "churchId": 6,
+      "positionTitle": "Test",
+      "description": "test",
+      "datePosted": 1632328467,
+      "id": 19
+    }
+  ],
+  "jobApplications": [
+    {
+      "jobPostingId": 5,
+      "userId": 6,
+      "description": "I think that every church needs a good organ player and someone to feel the vibes",
+      "id": 3
+    },
+    {
+      "jobPostingId": 5,
+      "userId": 3,
+      "description": "This is amazing",
+      "id": 4
+    },
+    {
+      "jobPostingId": 8,
+      "userId": 3,
+      "description": "yas",
+      "id": 5
+    },
+    {
+      "jobPostingId": 6,
+      "userId": 1,
+      "description": "I love to play the piano",
+      "id": 8
+    },
+    {
+      "jobPostingId": 8,
+      "userId": 1,
+      "description": "a",
+      "id": 10
+    }
+  ],
+  "wallPosts": [
+    {
+      "id": 1,
+      "churchId": 1,
+      "title": "",
+      "description": "Casky Baptist Worship team hosting our quarterly worship night. If you are interested in joining our music ministry please contact us now",
+      "videoUrl": "https://www.youtube.com/embed/I6cpY-RY4X8"
+    },
+    {
+      "churchId": 1,
+      "title": "Come on down to meet the Man",
+      "description": "Lets meet the man the myth the legend, and he is cool",
+      "videoUrl": "https://www.youtube.com/embed/BqVziS8LYSQ",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "wallPostId": 1,
+      "userId": 6,
+      "description": "Amazing Job last night",
+      "id": 3
+    },
+    {
+      "wallPostId": 1,
+      "userId": 6,
+      "description": "Wow this is crazy",
+      "id": 4
+    },
+    {
+      "wallPostId": 1,
+      "userId": 6,
+      "description": "This is a tet",
+      "id": 5
+    },
+    {
+      "wallPostId": 1,
+      "userId": 6,
+      "description": "Hello World",
+      "id": 6
+    },
+    {
+      "wallPostId": 1,
+      "userId": 6,
+      "description": "Again Hi",
+      "id": 7
+    },
+    {
+      "wallPostId": 1,
+      "userId": 6,
+      "description": "Yas to the dress",
+      "id": 8
+    },
+    {
+      "wallPostId": 2,
+      "userId": 6,
+      "description": "Great job team",
+      "id": 13
+    },
+    {
+      "wallPostId": 1,
+      "userId": 6,
+      "description": "Great job yens",
+      "id": 14
+    },
+    {
+      "wallPostId": 1,
+      "userId": 1,
+      "description": "Okay",
+      "id": 15
+    },
+    {
+      "wallPostId": 2,
+      "userId": 1,
+      "description": "Mazing Job not really",
+      "id": 16
+    },
+    {
+      "wallPostId": 1,
+      "userId": 1,
+      "description": "Love this Great job Casky",
+      "id": 18
+    }
+  ],
+  "churchPictures": [
+    {
+      "id": 1,
+      "churchId": 1,
+      "pictureURL": "https://res.cloudinary.com/dcaryjezn/image/upload/v1631664295/churchpic--1.png"
+    },
+    {
+      "id": 2,
+      "churchId": 2,
+      "pictureURL": "https://res.cloudinary.com/dcaryjezn/image/upload/v1631665499/churchpic--2.png"
+    },
+    {
+      "id": 3,
+      "churchId": 3,
+      "pictureURL": "https://res.cloudinary.com/dcaryjezn/image/upload/v1631665984/churchpic--3.jpg"
+    },
+    {
+      "id": 4,
+      "churchId": 4,
+      "pictureURL": "https://res.cloudinary.com/dcaryjezn/image/upload/v1631666679/churchpic--4.jpg"
+    },
+    {
+      "id": 5,
+      "churchId": 5,
+      "pictureURL": "https://res.cloudinary.com/dcaryjezn/image/upload/v1631666729/churchpic--5.jpg"
+    },
+    {
+      "id": 6,
+      "churchId": 6,
+      "pictureURL": "https://res.cloudinary.com/dcaryjezn/image/upload/v1631666782/churchpic--6.png"
+    },
+    {
+      "id": 7,
+      "churchId": 7,
+      "pictureURL": "https://res.cloudinary.com/dcaryjezn/image/upload/v1631666811/churchpic--7.png"
+    }
+  ],
+  "userPictures": [
+    {
+      "id": 1,
+      "userId": 1,
+      "pictureURL": "https://res.cloudinary.com/dcaryjezn/image/upload/v1631676328/userpic--1.jpg"
+    },
+    {
+      "userId": 6,
+      "pictureURL": "https://res.cloudinary.com/dcaryjezn/image/upload/v1631719875/nkmodpkf0vhouych0o85.png",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "pictureURL": "https://res.cloudinary.com/dcaryjezn/image/upload/v1631734485/Opossum-Gape-e1586557721835-300x300_hokqg6.jpg",
+      "id": 3
+    },
+    {
+      "userId": 3,
+      "pictureURL": "https://res.cloudinary.com/dcaryjezn/image/upload/v1631676666/userpic--3.png",
+      "id": 4
+    },
+    {
+      "userId": 4,
+      "pictureURL": "https://res.cloudinary.com/dcaryjezn/image/upload/v1631676487/userpic--4.png",
+      "id": 5
+    },
+    {
+      "userId": 5,
+      "pictureURL": "https://res.cloudinary.com/dcaryjezn/image/upload/v1631676618/userpic--5.jpg",
+      "id": 6
+    },
+    {
+      "userId": 7,
+      "pictureURL": "https://res.cloudinary.com/dcaryjezn/image/upload/v1631734613/image_1_lehfvy.png",
+      "id": 7
+    }
+  ]
+}
